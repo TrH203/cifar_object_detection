@@ -1,4 +1,4 @@
-<img width="1728" alt="Screenshot 2023-10-28 at 19 53 54" src="https://github.com/TrH203/cifar_object_detection/assets/96675314/19369dda-beb5-4a73-8910-e528f7b485a2"># Cifar_object_detection
+# Cifar_object_detection
 This project is about using a machine learning model and the CV2 library to build a small app that can detect objects in video.
 
 The model is trained with image 32x32x3 shape, so that when have to resize to 32x32x32
